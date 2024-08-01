@@ -27,6 +27,7 @@ The project involves analyzing sales data from multiple CSV files to:
    Question 5: Most Sold Products
 ### Conclusion:
 The analysis demonstrates key insights:
+
 Best Sales Month: Visualize sales by month to determine the peak sales period.
 Top City for Sales: Identify which city generated the highest revenue.
 Optimal Advertising Times: Recommend times to maximize customer engagement.
