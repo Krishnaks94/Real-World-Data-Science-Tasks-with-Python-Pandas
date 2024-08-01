@@ -12,19 +12,19 @@ The project involves analyzing sales data from multiple CSV files to:
 4. Visualize insights to aid in decision-making.
 
 ### Process
-1. Import Necessary Libraries
-2. Merge the 12 Months of Sales Data
-3. Clean the Data
-4. Augment Data with Additional Columns
-   1). Add Month Column
-   2). Add Sales Column
-   3). Add City Column
-5. Exploratory Data Analysis
-   Question 1: Best Month for Sales
-   Question 2: City with Highest Sales
-   Question 3: Optimal Advertising Times
-   Question 4: Products Most Often Sold Together
-   Question 5: Most Sold Products
+1. Import Necessary Libraries.
+2. Merge the 12 Months of Sales Data.
+3. Clean the Data.
+4. Augment Data with Additional Columns: 
+   1). Add Month Column.
+   2). Add Sales Column.
+   3). Add City Column.
+5. Exploratory Data Analysis: 
+   Question 1: Best Month for Sales.
+   Question 2: City with Highest Sales.
+   Question 3: Optimal Advertising Times.
+   Question 4: Products Most Often Sold Together.
+   Question 5: Most Sold Products.
 ### Conclusion:
 The analysis demonstrates key insights:
 
