@@ -1,4 +1,4 @@
-2. Real-World Sales Analysis (Python, Pandas, Data Visualization)
+# 2. Real-World Sales Analysis (Python, Pandas, Data Visualization)
  
 📝 Project Overview:
 Analyzing and visualizing sales data to identify trends and top product combinations.
